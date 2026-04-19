@@ -1,7 +1,5 @@
 ---
 title: "Kubernetes in advanced study"
-datePublished: 2026-04-16T10:47:58.993Z
-cuid: cmo1cvj80004k2dnndbaugtms
 slug: kubernetes-in-advanced-study
 
 ---
