@@ -27,4 +27,4 @@ Kubernetes acts like a **manager** that handles everything for your application:
 *   🔄 **Rolling updates** → Updates apps without downtime
     
 
-kubernetes pratices
+Kubernetes practices
