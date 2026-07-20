@@ -26,8 +26,7 @@ Kubernetes acts like a **manager** that handles everything for your application:
 
 
 
-*.     Top blog for me 
-.......
+*
 
 
 
