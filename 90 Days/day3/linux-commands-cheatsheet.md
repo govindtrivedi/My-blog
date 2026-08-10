@@ -30,4 +30,5 @@ Process management in Linux involves monitoring, controlling, and adjusting the 
 -ip addr
 -ping
 - dig & nslookup
+- etc
 
