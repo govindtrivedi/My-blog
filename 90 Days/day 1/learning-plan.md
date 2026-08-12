@@ -7,3 +7,6 @@
 - Determining where you want to reach requires defining clear, SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) to avoid information overload and ensure focus
 - # How will you stay consistent every single day?
 - -Staying consistent every day requires replacing reliance on fleeting motivation with rigid, pre-determined constraints, such as scheduling specific times and places for habits.
+
+
+
