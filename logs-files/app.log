@@ -1,0 +1,7 @@
+Timestamp,Level,Component,Message,ErrorCode
+2026-09-04T14:15:02Z,INFO,AuthService,User 'jdoe' logged in successfully,0
+2026-09-04T14:16:45Z,WARN,Database,Connection pool reaching 80% capacity,0
+2026-09-04T14:18:12Z,ERROR,PaymentGateway,Transaction failed: Timeout,ERR_404
+2026-09-04T14:18:15Z,INFO,PaymentGateway,Retrying transaction for user 'smith',0
+2026-09-04T14:22:30Z,FATAL,Server,Out of memory error. Shutting down,ERR_500
+

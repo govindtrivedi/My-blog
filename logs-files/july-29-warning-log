@@ -1,0 +1,1155 @@
+2015-07-29 19:04:29,071 worker leaving Send worker
+2015-07-29 19:04:29,079 while waiting Interrupted while
+2015-07-29 19:13:17,524 worker leaving Send worker
+2015-07-29 19:13:24,282 broken for Connection broken
+2015-07-29 19:13:27,721 broken for Connection broken
+2015-07-29 19:13:34,382 while waiting Interrupted while
+2015-07-29 19:13:37,626 worker leaving Send worker
+2015-07-29 19:13:44,301 worker leaving Send worker
+2015-07-29 19:13:47,731 broken for Connection broken
+2015-07-29 19:13:54,399 broken for Connection broken
+2015-07-29 19:14:04,406 while waiting Interrupted while
+2015-07-29 19:14:07,559 SendWorker  Interrupting SendWorker
+2015-07-29 19:14:07,653 worker leaving Send worker
+2015-07-29 19:14:24,329 SendWorker  Interrupting SendWorker
+2015-07-29 19:14:37,585 while waiting Interrupted while
+2015-07-29 19:14:47,593 SendWorker  Interrupting SendWorker
+2015-07-29 19:14:54,354 worker leaving Send worker
+2015-07-29 19:15:24,476 while waiting Interrupted while
+2015-07-29 19:15:37,647 SendWorker  Interrupting SendWorker
+2015-07-29 19:15:37,648 worker leaving Send worker
+2015-07-29 19:15:54,407 while waiting Interrupted while
+2015-07-29 19:16:04,412 while waiting Interrupted while
+2015-07-29 19:16:04,414 while waiting Interrupted while
+2015-07-29 19:16:07,659 SendWorker  Interrupting SendWorker
+2015-07-29 19:16:14,520 while waiting Interrupted while
+2015-07-29 19:16:24,348 broken for Connection broken
+2015-07-29 19:16:27,865 while waiting Interrupted while
+2015-07-29 19:16:27,865 worker leaving Send worker
+2015-07-29 19:16:34,433 broken for Connection broken
+2015-07-29 19:16:57,707 while waiting Interrupted while
+2015-07-29 19:17:17,721 while waiting Interrupted while
+2015-07-29 19:17:17,921 while waiting Interrupted while
+2015-07-29 19:17:24,471 broken for Connection broken
+2015-07-29 19:17:24,477 while waiting Interrupted while
+2015-07-29 19:17:57,741 while waiting Interrupted while
+2015-07-29 19:17:57,955 SendWorker  Interrupting SendWorker
+2015-07-29 19:18:04,430 while waiting Interrupted while
+2015-07-29 19:18:07,748 SendWorker  Interrupting SendWorker
+2015-07-29 19:18:07,756 SendWorker  Interrupting SendWorker
+2015-07-29 19:18:14,839 while waiting Interrupted while
+2015-07-29 19:18:34,635 while waiting Interrupted while
+2015-07-29 19:18:37,770 worker leaving Send worker
+2015-07-29 19:18:47,785 SendWorker  Interrupting SendWorker
+2015-07-29 19:18:54,534 SendWorker  Interrupting SendWorker
+2015-07-29 19:18:54,534 while waiting Interrupted while
+2015-07-29 19:18:57,988 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:36,607 while waiting Interrupted while
+2015-07-29 19:21:39,846 broken for Connection broken
+2015-07-29 19:21:39,846 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:43,389 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:46,525 broken for Connection broken
+2015-07-29 19:21:46,537 worker leaving Send worker
+2015-07-29 19:21:53,209 worker leaving Send worker
+2015-07-29 19:21:53,220 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:53,410 while waiting Interrupted while
+2015-07-29 19:21:53,412 while waiting Interrupted while
+2015-07-29 19:21:53,414 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:56,644 worker leaving Send worker
+2015-07-29 19:21:56,756 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:59,997 worker leaving Send worker
+2015-07-29 19:22:03,337 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:03,439 worker leaving Send worker
+2015-07-29 19:22:10,020 broken for Connection broken
+2015-07-29 19:22:13,256 while waiting Interrupted while
+2015-07-29 19:22:13,257 while waiting Interrupted while
+2015-07-29 19:22:16,799 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:23,289 worker leaving Send worker
+2015-07-29 19:22:23,378 while waiting Interrupted while
+2015-07-29 19:22:23,379 worker leaving Send worker
+2015-07-29 19:22:26,618 while waiting Interrupted while
+2015-07-29 19:22:26,634 while waiting Interrupted while
+2015-07-29 19:22:26,734 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:26,829 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:29,975 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:33,313 broken for Connection broken
+2015-07-29 19:22:33,513 while waiting Interrupted while
+2015-07-29 19:22:36,642 worker leaving Send worker
+2015-07-29 19:22:36,659 while waiting Interrupted while
+2015-07-29 19:22:43,421 worker leaving Send worker
+2015-07-29 19:22:43,536 broken for Connection broken
+2015-07-29 19:22:46,680 while waiting Interrupted while
+2015-07-29 19:22:50,025 while waiting Interrupted while
+2015-07-29 19:22:53,441 while waiting Interrupted while
+2015-07-29 19:22:53,462 broken for Connection broken
+2015-07-29 19:22:56,689 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:56,892 broken for Connection broken
+2015-07-29 19:23:00,124 broken for Connection broken
+2015-07-29 19:23:00,131 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:03,387 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:03,464 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:03,590 worker leaving Send worker
+2015-07-29 19:23:06,729 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:13,491 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:13,596 broken for Connection broken
+2015-07-29 19:23:16,755 worker leaving Send worker
+2015-07-29 19:23:16,937 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:20,095 while waiting Interrupted while
+2015-07-29 19:23:20,173 worker leaving Send worker
+2015-07-29 19:23:20,278 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:23,518 while waiting Interrupted while
+2015-07-29 19:23:26,760 broken for Connection broken
+2015-07-29 19:23:26,979 broken for Connection broken
+2015-07-29 19:23:30,116 while waiting Interrupted while
+2015-07-29 19:23:30,320 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:33,457 broken for Connection broken
+2015-07-29 19:23:33,553 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:36,783 broken for Connection broken
+2015-07-29 19:23:40,140 while waiting Interrupted while
+2015-07-29 19:23:46,830 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:46,917 worker leaving Send worker
+2015-07-29 19:23:50,171 broken for Connection broken
+2015-07-29 19:23:56,838 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:56,851 while waiting Interrupted while
+2015-07-29 19:24:00,386 broken for Connection broken
+2015-07-29 19:24:03,616 while waiting Interrupted while
+2015-07-29 19:24:03,725 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:07,062 worker leaving Send worker
+2015-07-29 19:24:10,216 while waiting Interrupted while
+2015-07-29 19:24:13,542 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:16,883 worker leaving Send worker
+2015-07-29 19:24:16,987 worker leaving Send worker
+2015-07-29 19:24:20,217 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:20,413 worker leaving Send worker
+2015-07-29 19:24:20,431 worker leaving Send worker
+2015-07-29 19:24:23,574 broken for Connection broken
+2015-07-29 19:24:23,578 while waiting Interrupted while
+2015-07-29 19:24:30,451 while waiting Interrupted while
+2015-07-29 19:24:36,927 broken for Connection broken
+2015-07-29 19:24:37,012 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:40,383 broken for Connection broken
+2015-07-29 19:24:43,814 broken for Connection broken
+2015-07-29 19:24:50,301 while waiting Interrupted while
+2015-07-29 19:24:50,374 worker leaving Send worker
+2015-07-29 19:24:57,160 broken for Connection broken
+2015-07-29 19:24:57,175 broken for Connection broken
+2015-07-29 19:25:03,663 worker leaving Send worker
+2015-07-29 19:25:03,744 worker leaving Send worker
+2015-07-29 19:25:07,003 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:07,079 worker leaving Send worker
+2015-07-29 19:25:07,102 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:10,539 worker leaving Send worker
+2015-07-29 19:25:13,695 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:13,874 worker leaving Send worker
+2015-07-29 19:25:17,021 worker leaving Send worker
+2015-07-29 19:25:17,124 while waiting Interrupted while
+2015-07-29 19:25:23,702 while waiting Interrupted while
+2015-07-29 19:25:23,811 broken for Connection broken
+2015-07-29 19:25:27,058 broken for Connection broken
+2015-07-29 19:25:27,242 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:30,571 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:33,833 broken for Connection broken
+2015-07-29 19:25:33,923 broken for Connection broken
+2015-07-29 19:25:37,065 broken for Connection broken
+2015-07-29 19:25:37,259 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:40,600 worker leaving Send worker
+2015-07-29 19:25:43,751 while waiting Interrupted while
+2015-07-29 19:25:47,102 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:47,195 while waiting Interrupted while
+2015-07-29 19:25:50,507 while waiting Interrupted while
+2015-07-29 19:25:50,537 worker leaving Send worker
+2015-07-29 19:25:50,615 while waiting Interrupted while
+2015-07-29 19:27:58,407 while waiting Interrupted while
+2015-07-29 19:28:05,197 broken for Connection broken
+2015-07-29 19:28:12,190 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:15,221 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:18,656 while waiting Interrupted while
+2015-07-29 19:28:18,661 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:21,796 while waiting Interrupted while
+2015-07-29 19:28:21,902 broken for Connection broken
+2015-07-29 19:28:21,902 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:22,000 broken for Connection broken
+2015-07-29 19:28:31,823 broken for Connection broken
+2015-07-29 19:28:35,160 worker leaving Send worker
+2015-07-29 19:28:38,704 while waiting Interrupted while
+2015-07-29 19:28:41,841 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:42,254 broken for Connection broken
+2015-07-29 19:28:55,309 while waiting Interrupted while
+2015-07-29 19:29:08,571 worker leaving Send worker
+2015-07-29 19:29:08,669 while waiting Interrupted while
+2015-07-29 19:29:08,670 worker leaving Send worker
+2015-07-29 19:29:08,671 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:12,009 while waiting Interrupted while
+2015-07-29 19:29:12,115 worker leaving Send worker
+2015-07-29 19:29:12,115 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:12,116 while waiting Interrupted while
+2015-07-29 19:29:15,349 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:15,349 worker leaving Send worker
+2015-07-29 19:29:15,353 while waiting Interrupted while
+2015-07-29 19:29:18,798 worker leaving Send worker
+2015-07-29 19:29:21,933 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:22,033 worker leaving Send worker
+2015-07-29 19:29:22,136 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:22,340 worker leaving Send worker
+2015-07-29 19:29:25,274 worker leaving Send worker
+2015-07-29 19:29:28,612 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:28,820 while waiting Interrupted while
+2015-07-29 19:29:29,020 broken for Connection broken
+2015-07-29 19:29:32,056 worker leaving Send worker
+2015-07-29 19:29:38,840 while waiting Interrupted while
+2015-07-29 19:29:38,841 while waiting Interrupted while
+2015-07-29 19:29:38,843 worker leaving Send worker
+2015-07-29 19:29:42,070 while waiting Interrupted while
+2015-07-29 19:29:42,075 broken for Connection broken
+2015-07-29 19:29:45,414 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:45,522 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:52,202 broken for Connection broken
+2015-07-29 19:29:55,545 while waiting Interrupted while
+2015-07-29 19:29:58,673 worker leaving Send worker
+2015-07-29 19:29:58,774 while waiting Interrupted while
+2015-07-29 19:29:58,778 broken for Connection broken
+2015-07-29 19:29:58,779 worker leaving Send worker
+2015-07-29 19:29:58,884 while waiting Interrupted while
+2015-07-29 19:30:05,458 worker leaving Send worker
+2015-07-29 19:30:08,802 broken for Connection broken
+2015-07-29 19:30:12,246 while waiting Interrupted while
+2015-07-29 19:30:15,382 while waiting Interrupted while
+2015-07-29 19:30:18,723 broken for Connection broken
+2015-07-29 19:30:22,162 worker leaving Send worker
+2015-07-29 19:30:25,405 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:25,608 broken for Connection broken
+2015-07-29 19:30:25,608 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:25,609 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:35,630 while waiting Interrupted while
+2015-07-29 19:30:38,760 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:42,315 while waiting Interrupted while
+2015-07-29 19:30:42,315 worker leaving Send worker
+2015-07-29 19:30:45,653 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:48,785 worker leaving Send worker
+2015-07-29 19:30:48,883 broken for Connection broken
+2015-07-29 19:30:48,997 worker leaving Send worker
+2015-07-29 19:30:59,011 broken for Connection broken
+2015-07-29 19:31:02,142 broken for Connection broken
+2015-07-29 19:31:02,243 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:02,243 while waiting Interrupted while
+2015-07-29 19:31:02,352 worker leaving Send worker
+2015-07-29 19:31:02,353 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:05,483 broken for Connection broken
+2015-07-29 19:31:05,583 while waiting Interrupted while
+2015-07-29 19:31:08,823 worker leaving Send worker
+2015-07-29 19:31:15,504 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:32,214 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:32,214 while waiting Interrupted while
+2015-07-29 19:31:32,420 worker leaving Send worker
+2015-07-29 19:31:35,546 broken for Connection broken
+2015-07-29 19:31:35,760 while waiting Interrupted while
+2015-07-29 19:31:39,093 broken for Connection broken
+2015-07-29 19:31:45,780 while waiting Interrupted while
+2015-07-29 19:31:49,006 worker leaving Send worker
+2015-07-29 19:31:49,116 worker leaving Send worker
+2015-07-29 19:31:49,117 while waiting Interrupted while
+2015-07-29 19:31:52,349 broken for Connection broken
+2015-07-29 19:31:52,456 broken for Connection broken
+2015-07-29 19:31:52,456 worker leaving Send worker
+2015-07-29 19:31:55,588 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:55,592 broken for Connection broken
+2015-07-29 19:31:55,805 while waiting Interrupted while
+2015-07-29 19:31:58,932 broken for Connection broken
+2015-07-29 19:31:59,141 while waiting Interrupted while
+2015-07-29 19:32:02,269 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:02,363 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:02,367 worker leaving Send worker
+2015-07-29 19:32:05,705 worker leaving Send worker
+2015-07-29 19:32:08,955 worker leaving Send worker
+2015-07-29 19:32:09,163 broken for Connection broken
+2015-07-29 19:32:12,495 while waiting Interrupted while
+2015-07-29 19:32:15,845 while waiting Interrupted while
+2015-07-29 19:32:18,976 worker leaving Send worker
+2015-07-29 19:32:22,405 broken for Connection broken
+2015-07-29 19:32:22,525 broken for Connection broken
+2015-07-29 19:32:25,653 while waiting Interrupted while
+2015-07-29 19:32:25,748 broken for Connection broken
+2015-07-29 19:32:29,085 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:32,336 while waiting Interrupted while
+2015-07-29 19:32:32,428 while waiting Interrupted while
+2015-07-29 19:32:35,678 broken for Connection broken
+2015-07-29 19:32:39,216 broken for Connection broken
+2015-07-29 19:32:42,355 while waiting Interrupted while
+2015-07-29 19:32:42,357 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:42,443 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:42,557 worker leaving Send worker
+2015-07-29 19:32:49,036 while waiting Interrupted while
+2015-07-29 19:32:49,237 broken for Connection broken
+2015-07-29 19:32:52,469 broken for Connection broken
+2015-07-29 19:33:02,398 while waiting Interrupted while
+2015-07-29 19:33:02,597 while waiting Interrupted while
+2015-07-29 19:33:05,829 broken for Connection broken
+2015-07-29 19:33:09,080 broken for Connection broken
+2015-07-29 19:33:09,170 worker leaving Send worker
+2015-07-29 19:33:12,618 while waiting Interrupted while
+2015-07-29 19:33:12,627 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:13,728 worker leaving Send worker
+2015-07-29 19:33:15,851 broken for Connection broken
+2015-07-29 19:33:15,853 worker leaving Send worker
+2015-07-29 19:33:15,963 broken for Connection broken
+2015-07-29 19:33:19,190 worker leaving Send worker
+2015-07-29 19:33:19,298 while waiting Interrupted while
+2015-07-29 19:33:22,441 worker leaving Send worker
+2015-07-29 19:33:23,749 broken for Connection broken
+2015-07-29 19:33:25,872 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:25,873 while waiting Interrupted while
+2015-07-29 19:33:29,118 broken for Connection broken
+2015-07-29 19:33:29,212 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:29,326 worker leaving Send worker
+2015-07-29 19:33:32,459 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:32,552 broken for Connection broken
+2015-07-29 19:33:35,800 while waiting Interrupted while
+2015-07-29 19:33:35,894 broken for Connection broken
+2015-07-29 19:33:39,140 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:39,344 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:42,574 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:42,678 broken for Connection broken
+2015-07-29 19:33:42,688 while waiting Interrupted while
+2015-07-29 19:33:45,916 while waiting Interrupted while
+2015-07-29 19:33:46,025 worker leaving Send worker
+2015-07-29 19:33:46,026 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:49,162 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:52,594 while waiting Interrupted while
+2015-07-29 19:33:55,843 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:55,844 worker leaving Send worker
+2015-07-29 19:33:55,935 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:59,385 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:02,725 while waiting Interrupted while
+2015-07-29 19:34:05,861 broken for Connection broken
+2015-07-29 19:34:05,863 broken for Connection broken
+2015-07-29 19:34:05,958 broken for Connection broken
+2015-07-29 19:34:06,067 worker leaving Send worker
+2015-07-29 19:34:09,294 while waiting Interrupted while
+2015-07-29 19:34:09,294 broken for Connection broken
+2015-07-29 19:34:09,295 broken for Connection broken
+2015-07-29 19:34:12,634 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:12,742 worker leaving Send worker
+2015-07-29 19:34:12,747 while waiting Interrupted while
+2015-07-29 19:34:15,884 worker leaving Send worker
+2015-07-29 19:34:15,884 worker leaving Send worker
+2015-07-29 19:34:16,089 worker leaving Send worker
+2015-07-29 19:34:26,102 worker leaving Send worker
+2015-07-29 19:34:29,246 worker leaving Send worker
+2015-07-29 19:34:29,447 broken for Connection broken
+2015-07-29 19:34:32,782 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:39,358 broken for Connection broken
+2015-07-29 19:34:42,809 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:46,038 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:46,038 while waiting Interrupted while
+2015-07-29 19:34:49,487 while waiting Interrupted while
+2015-07-29 19:35:02,651 broken for Connection broken
+2015-07-29 19:35:02,846 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:05,992 while waiting Interrupted while
+2015-07-29 19:35:06,078 worker leaving Send worker
+2015-07-29 19:35:09,326 broken for Connection broken
+2015-07-29 19:35:16,098 worker leaving Send worker
+2015-07-29 19:35:16,207 while waiting Interrupted while
+2015-07-29 19:35:19,443 broken for Connection broken
+2015-07-29 19:35:22,888 broken for Connection broken
+2015-07-29 19:35:29,368 worker leaving Send worker
+2015-07-29 19:35:29,372 while waiting Interrupted while
+2015-07-29 19:35:29,458 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:36,142 broken for Connection broken
+2015-07-29 19:35:49,417 while waiting Interrupted while
+2015-07-29 19:35:49,417 worker leaving Send worker
+2015-07-29 19:35:52,756 broken for Connection broken
+2015-07-29 19:35:52,842 while waiting Interrupted while
+2015-07-29 19:35:56,178 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:56,180 worker leaving Send worker
+2015-07-29 19:36:06,119 while waiting Interrupted while
+2015-07-29 19:36:09,456 worker leaving Send worker
+2015-07-29 19:36:09,645 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:16,136 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:16,221 while waiting Interrupted while
+2015-07-29 19:36:16,331 while waiting Interrupted while
+2015-07-29 19:36:16,334 while waiting Interrupted while
+2015-07-29 19:36:19,480 worker leaving Send worker
+2015-07-29 19:36:22,816 broken for Connection broken
+2015-07-29 19:36:22,901 worker leaving Send worker
+2015-07-29 19:36:22,902 broken for Connection broken
+2015-07-29 19:36:26,155 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:26,156 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:26,157 worker leaving Send worker
+2015-07-29 19:36:29,686 broken for Connection broken
+2015-07-29 19:36:32,920 worker leaving Send worker
+2015-07-29 19:36:33,030 broken for Connection broken
+2015-07-29 19:36:36,370 while waiting Interrupted while
+2015-07-29 19:36:39,516 while waiting Interrupted while
+2015-07-29 19:36:39,597 worker leaving Send worker
+2015-07-29 19:36:42,859 broken for Connection broken
+2015-07-29 19:36:42,939 broken for Connection broken
+2015-07-29 19:36:43,054 while waiting Interrupted while
+2015-07-29 19:36:49,620 worker leaving Send worker
+2015-07-29 19:36:49,623 while waiting Interrupted while
+2015-07-29 19:36:52,879 broken for Connection broken
+2015-07-29 19:36:56,220 while waiting Interrupted while
+2015-07-29 19:36:56,303 broken for Connection broken
+2015-07-29 19:37:02,901 while waiting Interrupted while
+2015-07-29 19:37:09,774 broken for Connection broken
+2015-07-29 19:37:12,919 while waiting Interrupted while
+2015-07-29 19:37:13,114 SendWorker  Interrupting SendWorker
+2015-07-29 19:37:19,676 SendWorker  Interrupting SendWorker
+2015-07-29 19:52:05,118 end of caught end
+2015-07-29 19:04:30,989 GOODBYE /10.10.34.11:52264 ******* GOODBYE
+2015-07-29 19:13:46,128 GOODBYE /10.10.34.11:52308 ******* GOODBYE
+2015-07-29 19:14:06,236 GOODBYE /10.10.34.12:59060 ******* GOODBYE
+2015-07-29 19:14:46,264 GOODBYE /10.10.34.12:59103 ******* GOODBYE
+2015-07-29 19:14:56,371 GOODBYE /10.10.34.13:57247 ******* GOODBYE
+2015-07-29 19:15:56,423 GOODBYE /10.10.34.13:57319 ******* GOODBYE
+2015-07-29 19:16:06,243 GOODBYE /10.10.34.11:52476 ******* GOODBYE
+2015-07-29 19:16:06,336 GOODBYE /10.10.34.12:59203 ******* GOODBYE
+2015-07-29 19:16:16,339 GOODBYE /10.10.34.12:59211 ******* GOODBYE
+2015-07-29 19:16:26,268 GOODBYE /10.10.34.11:52502 ******* GOODBYE
+2015-07-29 19:17:56,522 GOODBYE /10.10.34.13:57458 ******* GOODBYE
+2015-07-29 19:18:26,565 GOODBYE /10.10.34.13:57502 ******* GOODBYE
+2015-07-29 19:18:56,377 GOODBYE /10.10.34.11:52703 ******* GOODBYE
+2015-07-29 19:18:56,457 GOODBYE /10.10.34.12:59406 ******* GOODBYE
+2015-07-29 19:20:16,794 GOODBYE /10.10.34.13:57580 ******* GOODBYE
+2015-07-29 19:20:56,608 GOODBYE /10.10.34.11:52818 ******* GOODBYE
+2015-07-29 19:21:16,619 GOODBYE /10.10.34.11:52844 ******* GOODBYE
+2015-07-29 19:21:16,835 GOODBYE /10.10.34.13:57653 ******* GOODBYE
+2015-07-29 19:21:31,738 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:35,084 broken for Connection broken
+2015-07-29 19:21:35,292 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:38,426 broken for Connection broken
+2015-07-29 19:21:38,626 broken for Connection broken
+2015-07-29 19:21:41,969 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:41,976 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:41,976 while waiting Interrupted while
+2015-07-29 19:21:45,107 worker leaving Send worker
+2015-07-29 19:21:45,109 worker leaving Send worker
+2015-07-29 19:21:48,542 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:48,545 while waiting Interrupted while
+2015-07-29 19:21:51,887 worker leaving Send worker
+2015-07-29 19:21:52,000 broken for Connection broken
+2015-07-29 19:21:58,680 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:01,826 worker leaving Send worker
+2015-07-29 19:22:05,161 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:05,251 broken for Connection broken
+2015-07-29 19:22:08,591 worker leaving Send worker
+2015-07-29 19:22:08,701 broken for Connection broken
+2015-07-29 19:22:15,277 broken for Connection broken
+2015-07-29 19:22:18,520 while waiting Interrupted while
+2015-07-29 19:22:18,628 broken for Connection broken
+2015-07-29 19:22:21,958 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:25,295 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:28,748 broken for Connection broken
+2015-07-29 19:22:28,749 worker leaving Send worker
+2015-07-29 19:22:42,000 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:55,364 broken for Connection broken
+2015-07-29 19:22:58,628 while waiting Interrupted while
+2015-07-29 19:22:58,710 broken for Connection broken
+2015-07-29 19:22:58,818 broken for Connection broken
+2015-07-29 19:22:58,824 worker leaving Send worker
+2015-07-29 19:23:01,969 broken for Connection broken
+2015-07-29 19:23:01,977 broken for Connection broken
+2015-07-29 19:23:05,500 while waiting Interrupted while
+2015-07-29 19:23:08,841 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:12,078 broken for Connection broken
+2015-07-29 19:23:12,182 while waiting Interrupted while
+2015-07-29 19:23:15,435 while waiting Interrupted while
+2015-07-29 19:23:18,864 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:22,092 while waiting Interrupted while
+2015-07-29 19:23:25,440 while waiting Interrupted while
+2015-07-29 19:23:25,546 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:28,902 while waiting Interrupted while
+2015-07-29 19:23:32,242 while waiting Interrupted while
+2015-07-29 19:23:38,924 worker leaving Send worker
+2015-07-29 19:23:42,263 while waiting Interrupted while
+2015-07-29 19:23:45,608 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:48,744 while waiting Interrupted while
+2015-07-29 19:23:48,819 broken for Connection broken
+2015-07-29 19:23:48,945 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:52,080 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:52,094 while waiting Interrupted while
+2015-07-29 19:23:52,167 worker leaving Send worker
+2015-07-29 19:23:52,285 while waiting Interrupted while
+2015-07-29 19:23:55,508 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:02,100 while waiting Interrupted while
+2015-07-29 19:24:05,463 broken for Connection broken
+2015-07-29 19:24:05,530 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:08,884 while waiting Interrupted while
+2015-07-29 19:24:12,123 while waiting Interrupted while
+2015-07-29 19:24:12,331 broken for Connection broken
+2015-07-29 19:24:12,334 worker leaving Send worker
+2015-07-29 19:24:19,011 worker leaving Send worker
+2015-07-29 19:24:22,234 while waiting Interrupted while
+2015-07-29 19:24:25,681 worker leaving Send worker
+2015-07-29 19:24:28,942 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:29,022 worker leaving Send worker
+2015-07-29 19:24:35,596 broken for Connection broken
+2015-07-29 19:24:35,703 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:42,397 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:45,647 worker leaving Send worker
+2015-07-29 19:24:48,888 broken for Connection broken
+2015-07-29 19:24:48,958 broken for Connection broken
+2015-07-29 19:24:52,310 while waiting Interrupted while
+2015-07-29 19:24:52,417 worker leaving Send worker
+2015-07-29 19:24:55,570 while waiting Interrupted while
+2015-07-29 19:24:55,669 worker leaving Send worker
+2015-07-29 19:24:58,991 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:02,441 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:02,441 while waiting Interrupted while
+2015-07-29 19:25:05,783 broken for Connection broken
+2015-07-29 19:25:09,110 broken for Connection broken
+2015-07-29 19:25:09,122 broken for Connection broken
+2015-07-29 19:25:12,262 while waiting Interrupted while
+2015-07-29 19:25:15,614 broken for Connection broken
+2015-07-29 19:25:15,695 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:15,711 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:15,802 broken for Connection broken
+2015-07-29 19:25:15,803 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:19,035 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:25,630 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:29,074 while waiting Interrupted while
+2015-07-29 19:25:29,166 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:32,505 worker leaving Send worker
+2015-07-29 19:25:39,079 broken for Connection broken
+2015-07-29 19:25:39,080 worker leaving Send worker
+2015-07-29 19:25:39,188 broken for Connection broken
+2015-07-29 19:25:42,340 worker leaving Send worker
+2015-07-29 19:25:49,016 worker leaving Send worker
+2015-07-29 19:25:49,027 while waiting Interrupted while
+2015-07-29 19:26:04,443 worker leaving Send worker
+2015-07-29 19:26:07,781 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:07,890 worker leaving Send worker
+2015-07-29 19:26:14,363 worker leaving Send worker
+2015-07-29 19:26:14,459 broken for Connection broken
+2015-07-29 19:26:17,801 worker leaving Send worker
+2015-07-29 19:26:17,908 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:21,040 worker leaving Send worker
+2015-07-29 19:26:24,383 broken for Connection broken
+2015-07-29 19:26:44,416 worker leaving Send worker
+2015-07-29 19:26:44,418 worker leaving Send worker
+2015-07-29 19:26:51,304 broken for Connection broken
+2015-07-29 19:26:54,437 broken for Connection broken
+2015-07-29 19:26:54,644 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:57,772 broken for Connection broken
+2015-07-29 19:26:57,875 worker leaving Send worker
+2015-07-29 19:26:57,983 worker leaving Send worker
+2015-07-29 19:27:01,216 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:01,320 broken for Connection broken
+2015-07-29 19:27:04,552 while waiting Interrupted while
+2015-07-29 19:27:08,001 while waiting Interrupted while
+2015-07-29 19:27:09,111 worker leaving Send worker
+2015-07-29 19:27:17,809 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:18,022 worker leaving Send worker
+2015-07-29 19:27:21,149 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:21,250 broken for Connection broken
+2015-07-29 19:27:24,498 while waiting Interrupted while
+2015-07-29 19:27:27,836 broken for Connection broken
+2015-07-29 19:27:27,838 worker leaving Send worker
+2015-07-29 19:27:27,927 while waiting Interrupted while
+2015-07-29 19:27:32,489 while waiting Interrupted while
+2015-07-29 19:28:07,021 worker leaving Send worker
+2015-07-29 19:28:07,225 while waiting Interrupted while
+2015-07-29 19:28:10,465 while waiting Interrupted while
+2015-07-29 19:28:13,703 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:17,044 while waiting Interrupted while
+2015-07-29 19:28:20,797 worker leaving Send worker
+2015-07-29 19:28:23,724 while waiting Interrupted while
+2015-07-29 19:28:23,927 worker leaving Send worker
+2015-07-29 19:28:24,137 broken for Connection broken
+2015-07-29 19:28:27,063 broken for Connection broken
+2015-07-29 19:28:27,167 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:27,170 while waiting Interrupted while
+2015-07-29 19:28:30,509 worker leaving Send worker
+2015-07-29 19:28:30,511 while waiting Interrupted while
+2015-07-29 19:28:33,951 worker leaving Send worker
+2015-07-29 19:28:40,426 broken for Connection broken
+2015-07-29 19:28:40,533 worker leaving Send worker
+2015-07-29 19:28:43,772 broken for Connection broken
+2015-07-29 19:28:47,314 broken for Connection broken
+2015-07-29 19:28:47,520 broken for Connection broken
+2015-07-29 19:28:53,993 broken for Connection broken
+2015-07-29 19:28:57,235 while waiting Interrupted while
+2015-07-29 19:28:57,236 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:03,812 while waiting Interrupted while
+2015-07-29 19:29:03,816 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:04,018 worker leaving Send worker
+2015-07-29 19:29:04,027 worker leaving Send worker
+2015-07-29 19:29:10,495 worker leaving Send worker
+2015-07-29 19:29:10,701 while waiting Interrupted while
+2015-07-29 19:29:17,382 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:17,388 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:23,859 while waiting Interrupted while
+2015-07-29 19:29:23,959 worker leaving Send worker
+2015-07-29 19:29:23,962 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:27,198 broken for Connection broken
+2015-07-29 19:29:27,299 while waiting Interrupted while
+2015-07-29 19:29:30,540 broken for Connection broken
+2015-07-29 19:29:30,639 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:37,321 while waiting Interrupted while
+2015-07-29 19:29:40,559 while waiting Interrupted while
+2015-07-29 19:29:40,562 while waiting Interrupted while
+2015-07-29 19:29:40,566 broken for Connection broken
+2015-07-29 19:29:44,109 broken for Connection broken
+2015-07-29 19:29:44,110 while waiting Interrupted while
+2015-07-29 19:29:47,343 worker leaving Send worker
+2015-07-29 19:29:50,793 worker leaving Send worker
+2015-07-29 19:29:54,022 worker leaving Send worker
+2015-07-29 19:29:54,133 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:54,134 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:57,472 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:57,473 broken for Connection broken
+2015-07-29 19:29:57,474 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:00,813 while waiting Interrupted while
+2015-07-29 19:30:00,814 worker leaving Send worker
+2015-07-29 19:30:04,154 broken for Connection broken
+2015-07-29 19:30:07,289 worker leaving Send worker
+2015-07-29 19:30:10,728 worker leaving Send worker
+2015-07-29 19:30:10,729 worker leaving Send worker
+2015-07-29 19:30:13,966 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:20,650 while waiting Interrupted while
+2015-07-29 19:30:20,748 while waiting Interrupted while
+2015-07-29 19:30:20,857 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:23,989 broken for Connection broken
+2015-07-29 19:30:23,995 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:34,221 broken for Connection broken
+2015-07-29 19:30:37,451 worker leaving Send worker
+2015-07-29 19:30:37,451 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:40,692 broken for Connection broken
+2015-07-29 19:30:47,372 worker leaving Send worker
+2015-07-29 19:30:47,582 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:50,712 while waiting Interrupted while
+2015-07-29 19:30:54,053 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:54,151 broken for Connection broken
+2015-07-29 19:30:57,394 broken for Connection broken
+2015-07-29 19:30:57,395 worker leaving Send worker
+2015-07-29 19:30:57,492 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:00,739 worker leaving Send worker
+2015-07-29 19:31:00,945 broken for Connection broken
+2015-07-29 19:31:07,513 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:14,096 worker leaving Send worker
+2015-07-29 19:31:14,103 while waiting Interrupted while
+2015-07-29 19:31:17,437 broken for Connection broken
+2015-07-29 19:31:20,785 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:27,554 while waiting Interrupted while
+2015-07-29 19:31:27,555 worker leaving Send worker
+2015-07-29 19:31:27,555 broken for Connection broken
+2015-07-29 19:31:27,667 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:30,892 broken for Connection broken
+2015-07-29 19:31:34,139 worker leaving Send worker
+2015-07-29 19:31:34,233 while waiting Interrupted while
+2015-07-29 19:31:41,026 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:44,257 while waiting Interrupted while
+2015-07-29 19:31:50,937 worker leaving Send worker
+2015-07-29 19:31:51,046 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:51,049 worker leaving Send worker
+2015-07-29 19:31:54,184 broken for Connection broken
+2015-07-29 19:31:57,617 while waiting Interrupted while
+2015-07-29 19:32:00,861 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:07,543 while waiting Interrupted while
+2015-07-29 19:32:07,546 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:11,091 broken for Connection broken
+2015-07-29 19:32:14,227 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:14,431 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:17,565 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:17,777 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:20,906 broken for Connection broken
+2015-07-29 19:32:21,114 worker leaving Send worker
+2015-07-29 19:32:24,338 broken for Connection broken
+2015-07-29 19:32:24,454 while waiting Interrupted while
+2015-07-29 19:32:27,586 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:27,586 while waiting Interrupted while
+2015-07-29 19:32:27,588 broken for Connection broken
+2015-07-29 19:32:31,017 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:31,018 broken for Connection broken
+2015-07-29 19:32:34,356 while waiting Interrupted while
+2015-07-29 19:32:37,607 worker leaving Send worker
+2015-07-29 19:32:40,947 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:40,948 broken for Connection broken
+2015-07-29 19:32:41,038 worker leaving Send worker
+2015-07-29 19:32:41,149 while waiting Interrupted while
+2015-07-29 19:32:41,155 while waiting Interrupted while
+2015-07-29 19:32:44,493 while waiting Interrupted while
+2015-07-29 19:32:44,498 while waiting Interrupted while
+2015-07-29 19:32:50,969 broken for Connection broken
+2015-07-29 19:32:50,970 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:51,176 worker leaving Send worker
+2015-07-29 19:32:54,397 while waiting Interrupted while
+2015-07-29 19:32:54,510 worker leaving Send worker
+2015-07-29 19:32:54,515 while waiting Interrupted while
+2015-07-29 19:33:01,198 broken for Connection broken
+2015-07-29 19:33:07,757 broken for Connection broken
+2015-07-29 19:33:08,980 worker leaving Send worker
+2015-07-29 19:33:11,011 while waiting Interrupted while
+2015-07-29 19:33:11,012 broken for Connection broken
+2015-07-29 19:33:11,219 while waiting Interrupted while
+2015-07-29 19:33:14,438 worker leaving Send worker
+2015-07-29 19:33:14,554 while waiting Interrupted while
+2015-07-29 19:33:21,031 while waiting Interrupted while
+2015-07-29 19:33:21,034 while waiting Interrupted while
+2015-07-29 19:33:21,121 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:21,122 worker leaving Send worker
+2015-07-29 19:33:24,375 while waiting Interrupted while
+2015-07-29 19:33:31,054 while waiting Interrupted while
+2015-07-29 19:33:31,146 worker leaving Send worker
+2015-07-29 19:33:31,147 worker leaving Send worker
+2015-07-29 19:33:37,733 broken for Connection broken
+2015-07-29 19:33:37,931 while waiting Interrupted while
+2015-07-29 19:33:44,413 worker leaving Send worker
+2015-07-29 19:33:44,508 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:47,846 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:51,095 while waiting Interrupted while
+2015-07-29 19:33:51,295 broken for Connection broken
+2015-07-29 19:33:54,435 worker leaving Send worker
+2015-07-29 19:33:54,525 worker leaving Send worker
+2015-07-29 19:33:57,774 while waiting Interrupted while
+2015-07-29 19:34:01,116 while waiting Interrupted while
+2015-07-29 19:34:04,656 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:07,797 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:07,889 while waiting Interrupted while
+2015-07-29 19:34:07,996 worker leaving Send worker
+2015-07-29 19:34:17,817 while waiting Interrupted while
+2015-07-29 19:34:17,908 broken for Connection broken
+2015-07-29 19:34:18,016 broken for Connection broken
+2015-07-29 19:34:21,249 worker leaving Send worker
+2015-07-29 19:34:24,497 broken for Connection broken
+2015-07-29 19:34:24,697 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:24,698 broken for Connection broken
+2015-07-29 19:34:24,699 worker leaving Send worker
+2015-07-29 19:34:27,838 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:27,928 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:28,037 worker leaving Send worker
+2015-07-29 19:34:31,382 while waiting Interrupted while
+2015-07-29 19:34:34,610 broken for Connection broken
+2015-07-29 19:34:34,723 while waiting Interrupted while
+2015-07-29 19:34:35,197 broken for Connection broken
+2015-07-29 19:34:37,858 broken for Connection broken
+2015-07-29 19:34:37,859 worker leaving Send worker
+2015-07-29 19:34:41,198 while waiting Interrupted while
+2015-07-29 19:34:44,628 broken for Connection broken
+2015-07-29 19:34:44,742 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:47,879 broken for Connection broken
+2015-07-29 19:34:54,565 while waiting Interrupted while
+2015-07-29 19:34:54,649 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:54,649 while waiting Interrupted while
+2015-07-29 19:35:01,244 broken for Connection broken
+2015-07-29 19:35:04,781 worker leaving Send worker
+2015-07-29 19:35:08,008 broken for Connection broken
+2015-07-29 19:35:11,348 broken for Connection broken
+2015-07-29 19:35:11,352 while waiting Interrupted while
+2015-07-29 19:35:11,461 broken for Connection broken
+2015-07-29 19:35:14,605 worker leaving Send worker
+2015-07-29 19:35:14,606 broken for Connection broken
+2015-07-29 19:35:14,692 worker leaving Send worker
+2015-07-29 19:35:14,798 worker leaving Send worker
+2015-07-29 19:35:14,802 broken for Connection broken
+2015-07-29 19:35:17,946 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:18,136 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:24,626 broken for Connection broken
+2015-07-29 19:35:24,818 while waiting Interrupted while
+2015-07-29 19:35:24,822 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:28,049 while waiting Interrupted while
+2015-07-29 19:35:28,160 worker leaving Send worker
+2015-07-29 19:35:28,162 while waiting Interrupted while
+2015-07-29 19:35:31,307 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:31,389 broken for Connection broken
+2015-07-29 19:35:34,731 broken for Connection broken
+2015-07-29 19:35:34,735 worker leaving Send worker
+2015-07-29 19:35:34,839 while waiting Interrupted while
+2015-07-29 19:35:34,842 while waiting Interrupted while
+2015-07-29 19:35:41,328 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:41,411 worker leaving Send worker
+2015-07-29 19:35:41,523 worker leaving Send worker
+2015-07-29 19:35:44,864 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:48,009 while waiting Interrupted while
+2015-07-29 19:35:48,094 while waiting Interrupted while
+2015-07-29 19:35:51,543 broken for Connection broken
+2015-07-29 19:35:54,885 while waiting Interrupted while
+2015-07-29 19:36:01,453 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:04,906 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:18,262 while waiting Interrupted while
+2015-07-29 19:36:21,414 worker leaving Send worker
+2015-07-29 19:36:21,492 broken for Connection broken
+2015-07-29 19:36:21,606 while waiting Interrupted while
+2015-07-29 19:36:24,752 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:24,834 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:28,091 broken for Connection broken
+2015-07-29 19:36:28,176 broken for Connection broken
+2015-07-29 19:36:31,627 while waiting Interrupted while
+2015-07-29 19:36:34,962 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:38,112 broken for Connection broken
+2015-07-29 19:36:38,307 while waiting Interrupted while
+2015-07-29 19:36:44,987 while waiting Interrupted while
+2015-07-29 19:36:48,327 worker leaving Send worker
+2015-07-29 19:36:51,671 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:51,671 while waiting Interrupted while
+2015-07-29 19:36:54,812 worker leaving Send worker
+2015-07-29 19:36:55,011 worker leaving Send worker
+2015-07-29 19:36:58,153 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:58,154 while waiting Interrupted while
+2015-07-29 19:36:58,342 broken for Connection broken
+2015-07-29 19:36:58,343 while waiting Interrupted while
+2015-07-29 19:37:01,494 while waiting Interrupted while
+2015-07-29 19:37:05,025 while waiting Interrupted while
+2015-07-29 19:37:08,362 worker leaving Send worker
+2015-07-29 19:37:15,046 while waiting Interrupted while
+2015-07-29 19:37:21,538 worker leaving Send worker
+2015-07-29 19:37:21,611 while waiting Interrupted while
+2015-07-29 19:37:21,726 broken for Connection broken
+2015-07-29 19:39:01,170 end of caught end
+2015-07-29 19:53:12,538 worker leaving Send worker
+2015-07-29 19:54:05,544 request from Connection request
+2015-07-29 21:01:50,768 request from Connection request
+2015-07-29 23:52:07,913 request from Connection request
+2015-07-29 17:42:53,528 open channel Cannot open
+2015-07-29 19:21:29,146 while waiting Interrupted while
+2015-07-29 19:21:32,680 broken for Connection broken
+2015-07-29 19:21:35,820 broken for Connection broken
+2015-07-29 19:21:35,823 worker leaving Send worker
+2015-07-29 19:21:36,029 worker leaving Send worker
+2015-07-29 19:21:39,171 worker leaving Send worker
+2015-07-29 19:21:39,257 while waiting Interrupted while
+2015-07-29 19:21:39,364 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:42,521 worker leaving Send worker
+2015-07-29 19:21:42,707 worker leaving Send worker
+2015-07-29 19:21:42,713 broken for Connection broken
+2015-07-29 19:21:45,845 SendWorker  Interrupting SendWorker
+2015-07-29 19:21:46,049 while waiting Interrupted while
+2015-07-29 19:21:46,050 broken for Connection broken
+2015-07-29 19:21:56,074 worker leaving Send worker
+2015-07-29 19:22:02,761 worker leaving Send worker
+2015-07-29 19:22:05,991 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:09,332 broken for Connection broken
+2015-07-29 19:22:09,447 worker leaving Send worker
+2015-07-29 19:22:19,462 broken for Connection broken
+2015-07-29 19:22:19,469 worker leaving Send worker
+2015-07-29 19:22:22,613 broken for Connection broken
+2015-07-29 19:22:22,700 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:22,812 worker leaving Send worker
+2015-07-29 19:22:29,382 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:32,643 SendWorker  Interrupting SendWorker
+2015-07-29 19:22:39,307 broken for Connection broken
+2015-07-29 19:22:39,515 worker leaving Send worker
+2015-07-29 19:22:52,672 broken for Connection broken
+2015-07-29 19:22:52,691 worker leaving Send worker
+2015-07-29 19:22:52,882 while waiting Interrupted while
+2015-07-29 19:22:56,220 broken for Connection broken
+2015-07-29 19:22:59,374 broken for Connection broken
+2015-07-29 19:23:02,712 while waiting Interrupted while
+2015-07-29 19:23:02,812 while waiting Interrupted while
+2015-07-29 19:23:06,057 worker leaving Send worker
+2015-07-29 19:23:06,133 broken for Connection broken
+2015-07-29 19:23:09,379 SendWorker  Interrupting SendWorker
+2015-07-29 19:23:09,475 while waiting Interrupted while
+2015-07-29 19:23:12,806 broken for Connection broken
+2015-07-29 19:23:12,817 worker leaving Send worker
+2015-07-29 19:23:19,600 worker leaving Send worker
+2015-07-29 19:23:26,282 worker leaving Send worker
+2015-07-29 19:23:36,118 worker leaving Send worker
+2015-07-29 19:23:36,221 worker leaving Send worker
+2015-07-29 19:23:39,463 worker leaving Send worker
+2015-07-29 19:23:39,465 while waiting Interrupted while
+2015-07-29 19:23:39,561 while waiting Interrupted while
+2015-07-29 19:23:42,806 worker leaving Send worker
+2015-07-29 19:23:42,884 worker leaving Send worker
+2015-07-29 19:23:42,999 worker leaving Send worker
+2015-07-29 19:23:46,140 while waiting Interrupted while
+2015-07-29 19:23:46,225 broken for Connection broken
+2015-07-29 19:23:49,667 broken for Connection broken
+2015-07-29 19:23:52,904 broken for Connection broken
+2015-07-29 19:23:56,349 while waiting Interrupted while
+2015-07-29 19:23:59,517 worker leaving Send worker
+2015-07-29 19:24:02,927 worker leaving Send worker
+2015-07-29 19:24:02,942 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:06,289 worker leaving Send worker
+2015-07-29 19:24:06,383 broken for Connection broken
+2015-07-29 19:24:09,630 broken for Connection broken
+2015-07-29 19:24:09,631 while waiting Interrupted while
+2015-07-29 19:24:09,728 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:12,879 while waiting Interrupted while
+2015-07-29 19:24:13,071 worker leaving Send worker
+2015-07-29 19:24:16,291 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:16,410 worker leaving Send worker
+2015-07-29 19:24:26,230 worker leaving Send worker
+2015-07-29 19:24:26,239 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:29,570 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:29,592 worker leaving Send worker
+2015-07-29 19:24:32,994 while waiting Interrupted while
+2015-07-29 19:24:36,247 worker leaving Send worker
+2015-07-29 19:24:36,272 broken for Connection broken
+2015-07-29 19:24:39,704 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:46,274 while waiting Interrupted while
+2015-07-29 19:24:46,275 worker leaving Send worker
+2015-07-29 19:24:46,284 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:49,624 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:49,724 while waiting Interrupted while
+2015-07-29 19:24:49,810 broken for Connection broken
+2015-07-29 19:24:49,811 worker leaving Send worker
+2015-07-29 19:24:53,035 SendWorker  Interrupting SendWorker
+2015-07-29 19:24:59,647 worker leaving Send worker
+2015-07-29 19:25:06,519 broken for Connection broken
+2015-07-29 19:25:09,678 broken for Connection broken
+2015-07-29 19:25:13,080 worker leaving Send worker
+2015-07-29 19:25:13,195 while waiting Interrupted while
+2015-07-29 19:25:19,761 broken for Connection broken
+2015-07-29 19:25:26,557 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:33,048 while waiting Interrupted while
+2015-07-29 19:25:33,154 while waiting Interrupted while
+2015-07-29 19:25:36,389 broken for Connection broken
+2015-07-29 19:25:36,464 while waiting Interrupted while
+2015-07-29 19:25:36,494 broken for Connection broken
+2015-07-29 19:25:36,585 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:39,729 worker leaving Send worker
+2015-07-29 19:25:43,070 broken for Connection broken
+2015-07-29 19:25:43,145 SendWorker  Interrupting SendWorker
+2015-07-29 19:25:49,854 while waiting Interrupted while
+2015-07-29 19:25:55,059 while waiting Interrupted while
+2015-07-29 19:25:55,268 worker leaving Send worker
+2015-07-29 19:25:58,399 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:01,736 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:01,947 worker leaving Send worker
+2015-07-29 19:26:11,758 while waiting Interrupted while
+2015-07-29 19:26:15,102 worker leaving Send worker
+2015-07-29 19:26:21,780 while waiting Interrupted while
+2015-07-29 19:26:21,874 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:21,877 while waiting Interrupted while
+2015-07-29 19:26:28,458 broken for Connection broken
+2015-07-29 19:26:31,792 worker leaving Send worker
+2015-07-29 19:26:32,001 while waiting Interrupted while
+2015-07-29 19:26:35,137 while waiting Interrupted while
+2015-07-29 19:26:35,235 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:38,572 broken for Connection broken
+2015-07-29 19:26:38,683 worker leaving Send worker
+2015-07-29 19:26:41,914 while waiting Interrupted while
+2015-07-29 19:26:45,151 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:48,591 broken for Connection broken
+2015-07-29 19:26:48,698 while waiting Interrupted while
+2015-07-29 19:26:51,831 SendWorker  Interrupting SendWorker
+2015-07-29 19:26:55,269 broken for Connection broken
+2015-07-29 19:26:55,270 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:05,187 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:05,289 worker leaving Send worker
+2015-07-29 19:27:05,399 broken for Connection broken
+2015-07-29 19:27:11,866 while waiting Interrupted while
+2015-07-29 19:27:11,867 while waiting Interrupted while
+2015-07-29 19:27:11,966 while waiting Interrupted while
+2015-07-29 19:27:15,206 while waiting Interrupted while
+2015-07-29 19:27:16,526 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:18,644 broken for Connection broken
+2015-07-29 19:27:18,756 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:18,757 broken for Connection broken
+2015-07-29 19:27:21,885 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:21,894 while waiting Interrupted while
+2015-07-29 19:27:21,894 worker leaving Send worker
+2015-07-29 19:27:21,983 while waiting Interrupted while
+2015-07-29 19:27:25,235 while waiting Interrupted while
+2015-07-29 19:27:25,322 worker leaving Send worker
+2015-07-29 19:27:25,328 while waiting Interrupted while
+2015-07-29 19:27:51,154 broken for Connection broken
+2015-07-29 19:27:51,255 SendWorker  Interrupting SendWorker
+2015-07-29 19:27:54,493 while waiting Interrupted while
+2015-07-29 19:28:01,176 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:01,179 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:04,413 broken for Connection broken
+2015-07-29 19:28:04,616 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:14,542 while waiting Interrupted while
+2015-07-29 19:28:17,882 while waiting Interrupted while
+2015-07-29 19:28:28,003 broken for Connection broken
+2015-07-29 19:28:31,140 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:34,481 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:34,893 SendWorker  Interrupting SendWorker
+2015-07-29 19:28:37,825 worker leaving Send worker
+2015-07-29 19:28:41,162 while waiting Interrupted while
+2015-07-29 19:28:41,368 while waiting Interrupted while
+2015-07-29 19:28:48,049 broken for Connection broken
+2015-07-29 19:28:51,189 while waiting Interrupted while
+2015-07-29 19:28:51,387 while waiting Interrupted while
+2015-07-29 19:28:54,529 worker leaving Send worker
+2015-07-29 19:28:57,868 while waiting Interrupted while
+2015-07-29 19:28:57,969 worker leaving Send worker
+2015-07-29 19:29:01,309 worker leaving Send worker
+2015-07-29 19:29:04,958 worker leaving Send worker
+2015-07-29 19:29:07,993 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:11,328 broken for Connection broken
+2015-07-29 19:29:11,330 while waiting Interrupted while
+2015-07-29 19:29:11,333 worker leaving Send worker
+2015-07-29 19:29:11,438 worker leaving Send worker
+2015-07-29 19:29:14,671 while waiting Interrupted while
+2015-07-29 19:29:18,117 while waiting Interrupted while
+2015-07-29 19:29:18,121 while waiting Interrupted while
+2015-07-29 19:29:21,660 broken for Connection broken
+2015-07-29 19:29:24,591 while waiting Interrupted while
+2015-07-29 19:29:24,695 while waiting Interrupted while
+2015-07-29 19:29:27,931 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:28,037 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:31,480 broken for Connection broken
+2015-07-29 19:29:31,480 while waiting Interrupted while
+2015-07-29 19:29:38,052 broken for Connection broken
+2015-07-29 19:29:38,163 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:38,164 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:41,298 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:41,395 while waiting Interrupted while
+2015-07-29 19:29:48,076 while waiting Interrupted while
+2015-07-29 19:29:48,077 worker leaving Send worker
+2015-07-29 19:29:51,524 SendWorker  Interrupting SendWorker
+2015-07-29 19:29:51,525 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:01,437 broken for Connection broken
+2015-07-29 19:30:01,438 broken for Connection broken
+2015-07-29 19:30:01,439 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:04,777 broken for Connection broken
+2015-07-29 19:30:11,459 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:14,700 while waiting Interrupted while
+2015-07-29 19:30:21,483 broken for Connection broken
+2015-07-29 19:30:24,725 worker leaving Send worker
+2015-07-29 19:30:28,163 broken for Connection broken
+2015-07-29 19:30:38,084 while waiting Interrupted while
+2015-07-29 19:30:41,426 worker leaving Send worker
+2015-07-29 19:30:41,635 SendWorker  Interrupting SendWorker
+2015-07-29 19:30:41,637 while waiting Interrupted while
+2015-07-29 19:30:44,766 worker leaving Send worker
+2015-07-29 19:30:48,107 while waiting Interrupted while
+2015-07-29 19:30:48,317 while waiting Interrupted while
+2015-07-29 19:30:51,658 worker leaving Send worker
+2015-07-29 19:30:54,997 worker leaving Send worker
+2015-07-29 19:31:01,467 broken for Connection broken
+2015-07-29 19:31:01,564 broken for Connection broken
+2015-07-29 19:31:04,808 while waiting Interrupted while
+2015-07-29 19:31:05,018 broken for Connection broken
+2015-07-29 19:31:08,148 worker leaving Send worker
+2015-07-29 19:31:11,488 while waiting Interrupted while
+2015-07-29 19:31:15,039 broken for Connection broken
+2015-07-29 19:31:18,265 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:21,509 broken for Connection broken
+2015-07-29 19:31:21,718 broken for Connection broken
+2015-07-29 19:31:28,190 broken for Connection broken
+2015-07-29 19:31:31,530 worker leaving Send worker
+2015-07-29 19:31:31,627 while waiting Interrupted while
+2015-07-29 19:31:34,969 while waiting Interrupted while
+2015-07-29 19:31:38,413 while waiting Interrupted while
+2015-07-29 19:31:41,554 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:41,759 broken for Connection broken
+2015-07-29 19:31:45,098 SendWorker  Interrupting SendWorker
+2015-07-29 19:31:48,439 broken for Connection broken
+2015-07-29 19:31:51,572 while waiting Interrupted while
+2015-07-29 19:31:51,573 worker leaving Send worker
+2015-07-29 19:31:55,114 broken for Connection broken
+2015-07-29 19:31:58,253 broken for Connection broken
+2015-07-29 19:31:58,342 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:05,143 broken for Connection broken
+2015-07-29 19:32:05,145 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:11,710 worker leaving Send worker
+2015-07-29 19:32:15,050 worker leaving Send worker
+2015-07-29 19:32:18,505 while waiting Interrupted while
+2015-07-29 19:32:24,976 while waiting Interrupted while
+2015-07-29 19:32:25,185 while waiting Interrupted while
+2015-07-29 19:32:28,409 broken for Connection broken
+2015-07-29 19:32:35,205 while waiting Interrupted while
+2015-07-29 19:32:38,423 while waiting Interrupted while
+2015-07-29 19:32:38,536 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:41,677 worker leaving Send worker
+2015-07-29 19:32:41,684 broken for Connection broken
+2015-07-29 19:32:45,020 worker leaving Send worker
+2015-07-29 19:32:45,025 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:45,108 while waiting Interrupted while
+2015-07-29 19:32:45,216 while waiting Interrupted while
+2015-07-29 19:32:51,698 SendWorker  Interrupting SendWorker
+2015-07-29 19:32:58,464 while waiting Interrupted while
+2015-07-29 19:33:01,720 worker leaving Send worker
+2015-07-29 19:33:01,804 while waiting Interrupted while
+2015-07-29 19:33:01,917 broken for Connection broken
+2015-07-29 19:33:05,059 broken for Connection broken
+2015-07-29 19:33:05,059 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:05,144 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:05,153 worker leaving Send worker
+2015-07-29 19:33:08,405 broken for Connection broken
+2015-07-29 19:33:09,707 broken for Connection broken
+2015-07-29 19:33:11,947 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:21,850 while waiting Interrupted while
+2015-07-29 19:33:21,966 while waiting Interrupted while
+2015-07-29 19:33:25,100 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:25,297 worker leaving Send worker
+2015-07-29 19:33:28,440 broken for Connection broken
+2015-07-29 19:33:28,442 broken for Connection broken
+2015-07-29 19:33:28,443 while waiting Interrupted while
+2015-07-29 19:33:31,786 worker leaving Send worker
+2015-07-29 19:33:31,872 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:35,217 broken for Connection broken
+2015-07-29 19:33:38,666 broken for Connection broken
+2015-07-29 19:33:41,895 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:45,235 worker leaving Send worker
+2015-07-29 19:33:51,917 worker leaving Send worker
+2015-07-29 19:33:51,917 broken for Connection broken
+2015-07-29 19:33:55,162 SendWorker  Interrupting SendWorker
+2015-07-29 19:33:55,163 while waiting Interrupted while
+2015-07-29 19:33:55,368 while waiting Interrupted while
+2015-07-29 19:33:58,503 worker leaving Send worker
+2015-07-29 19:34:02,048 while waiting Interrupted while
+2015-07-29 19:34:05,388 broken for Connection broken
+2015-07-29 19:34:08,523 broken for Connection broken
+2015-07-29 19:34:08,526 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:15,209 while waiting Interrupted while
+2015-07-29 19:34:15,295 broken for Connection broken
+2015-07-29 19:34:18,637 while waiting Interrupted while
+2015-07-29 19:34:22,089 broken for Connection broken
+2015-07-29 19:34:25,427 broken for Connection broken
+2015-07-29 19:34:28,568 broken for Connection broken
+2015-07-29 19:34:28,569 worker leaving Send worker
+2015-07-29 19:34:28,761 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:31,906 broken for Connection broken
+2015-07-29 19:34:31,913 worker leaving Send worker
+2015-07-29 19:34:35,337 while waiting Interrupted while
+2015-07-29 19:34:38,586 broken for Connection broken
+2015-07-29 19:34:38,787 broken for Connection broken
+2015-07-29 19:34:41,927 broken for Connection broken
+2015-07-29 19:34:41,929 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:41,936 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:42,129 broken for Connection broken
+2015-07-29 19:34:45,265 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:48,617 while waiting Interrupted while
+2015-07-29 19:34:48,696 while waiting Interrupted while
+2015-07-29 19:34:48,697 broken for Connection broken
+2015-07-29 19:34:48,808 broken for Connection broken
+2015-07-29 19:34:51,949 broken for Connection broken
+2015-07-29 19:34:52,035 worker leaving Send worker
+2015-07-29 19:34:52,036 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:55,378 SendWorker  Interrupting SendWorker
+2015-07-29 19:34:58,628 broken for Connection broken
+2015-07-29 19:34:58,716 while waiting Interrupted while
+2015-07-29 19:35:01,969 broken for Connection broken
+2015-07-29 19:35:02,057 broken for Connection broken
+2015-07-29 19:35:05,510 while waiting Interrupted while
+2015-07-29 19:35:12,078 while waiting Interrupted while
+2015-07-29 19:35:12,186 broken for Connection broken
+2015-07-29 19:35:15,420 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:18,863 broken for Connection broken
+2015-07-29 19:35:22,018 while waiting Interrupted while
+2015-07-29 19:35:25,543 broken for Connection broken
+2015-07-29 19:35:38,717 SendWorker  Interrupting SendWorker
+2015-07-29 19:35:42,141 while waiting Interrupted while
+2015-07-29 19:35:48,731 broken for Connection broken
+2015-07-29 19:35:48,732 broken for Connection broken
+2015-07-29 19:35:52,078 while waiting Interrupted while
+2015-07-29 19:35:52,160 while waiting Interrupted while
+2015-07-29 19:36:02,290 broken for Connection broken
+2015-07-29 19:36:02,292 broken for Connection broken
+2015-07-29 19:36:05,518 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:05,519 broken for Connection broken
+2015-07-29 19:36:08,774 while waiting Interrupted while
+2015-07-29 19:36:08,858 while waiting Interrupted while
+2015-07-29 19:36:12,304 worker leaving Send worker
+2015-07-29 19:36:15,454 SendWorker  Interrupting SendWorker
+2015-07-29 19:36:15,651 worker leaving Send worker
+2015-07-29 19:36:22,333 worker leaving Send worker
+2015-07-29 19:36:28,819 worker leaving Send worker
+2015-07-29 19:36:32,240 while waiting Interrupted while
+2015-07-29 19:36:45,518 broken for Connection broken
+2015-07-29 19:36:45,520 broken for Connection broken
+2015-07-29 19:36:48,859 worker leaving Send worker
+2015-07-29 19:36:58,955 broken for Connection broken
+2015-07-29 19:36:59,065 while waiting Interrupted while
+2015-07-29 19:37:05,751 broken for Connection broken
+2015-07-29 19:37:08,902 worker leaving Send worker
+2015-07-29 19:37:09,091 SendWorker  Interrupting SendWorker
+2015-07-29 19:37:09,092 while waiting Interrupted while
+2015-07-29 19:37:18,925 broken for Connection broken
+2015-07-29 19:37:19,003 SendWorker  Interrupting SendWorker
+2015-07-29 21:34:44,640 request from Connection request
+2015-07-29 23:05:05,988 end of caught end
